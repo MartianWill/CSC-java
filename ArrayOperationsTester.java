@@ -81,7 +81,6 @@ public class ArrayOperationsTester {
     
     public static void testMaxArray() {
         int result = 0;
-        // TODO: uncomment the following code to test your MaxArray method
         
         result = ArrayOperations.arrayMax(a1);
         System.out.println("should be 2: " + result);
@@ -101,7 +100,6 @@ public class ArrayOperationsTester {
     
     public static void testMinArray() {
         int result = 0;
-        // TODO: uncomment the following code to test your MinArray method
         
         result = ArrayOperations.arrayMin(a1);
         System.out.println("should be 2: " + result);
@@ -119,7 +117,6 @@ public class ArrayOperationsTester {
     
     public static void testAvgArray() {
         double result = 0;
-        // TODO: uncomment the following code to test your AvgArray method
         
         result = ArrayOperations.arrayAvg(a1);
         System.out.println("should be 2: " + result);
@@ -137,7 +134,6 @@ public class ArrayOperationsTester {
     
     public static void testEqualArrays() {
         boolean result = true;
-        // TODO: uncomment the following code to test your EqualsArray method
         
         result = ArrayOperations.arraysEqual(a1, a1Equal);
         System.out.println("should be true: " + result);
