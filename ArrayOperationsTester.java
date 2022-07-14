@@ -1,7 +1,7 @@
 
 /*
-NAME:	JINXIN ZHANG
-V#:	V00810275
+NAME:	JINXIN ###
+V#:	V00810###
  * ArrayOperationsTester
  *
  * A class to test the functions in ArrayOperations class
